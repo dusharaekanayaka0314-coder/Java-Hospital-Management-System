@@ -123,6 +123,10 @@ This project was developed as a solo first-year academic assignment to strengthe
 - Role-based authentication
 - Reporting dashboards
 
+To run the project
+1. Download the ZIP file
+2. Extract it
+3. Open the project in NetBeans IDE
 
 👨‍💻 Author
 
